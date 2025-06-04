@@ -1,6 +1,7 @@
+![Machine Learning engineer . ](https://media.licdn.com/dms/image/v2/D5616AQF2dwgD5NzKWA/profile-displaybackgroundimage-shrink_200_800/B56Zc7w1D0HoAc-/0/1749054346507?e=1754524800&v=beta&t=T24FSx8qSeBV05W7O9QPCGQGYqT2nI5625SYGkXAWhA)
+
 ### Hi there 👋, I'am Kaiser Ahmed. 
 #### Machine Learning engineer . 
-![Machine Learning engineer . ](https://media.licdn.com/dms/image/v2/D5616AQF2dwgD5NzKWA/profile-displaybackgroundimage-shrink_200_800/B56Zc7w1D0HoAc-/0/1749054346507?e=1754524800&v=beta&t=T24FSx8qSeBV05W7O9QPCGQGYqT2nI5625SYGkXAWhA)
 
 Aspiring ML & AI engineer | Passionate About Turning Data Into Insights | Python | Machine Learning | SQL | Open to internship & collaborations
 
