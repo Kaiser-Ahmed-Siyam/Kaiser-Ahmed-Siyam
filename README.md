@@ -10,6 +10,7 @@ Skills: Python / Nupmy / Pandas / Sklearn / Matplotlib / Seaborn / Excel
 <div>
   <p> <b>Projects : </b> </p>
   <ul> <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-dataset/edit">Project 1 <a/> </ul>
+  <ul> <a href = " ">Project 2 <a/> </ul>
 </div>
 
 - 🔭 I’m currently working on project link here 
