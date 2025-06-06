@@ -10,6 +10,8 @@ Skills: Python / Nupmy / Pandas / Sklearn / Matplotlib / Seaborn / Excel
 <div>
   <p> <b>Projects : </b> </p>
   <ul> <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-dataset/edit">Project 1 <a/> </ul>
+    <P>Breast Cancer wisconsin dataset is a supervised classififation problem. For the reason we use classification algorithms .('RandomForest','DecisonTree',' AdaBoost','GradBoost','XGBoost',
+             'Linear Regression')</P>
   <ul> <a href = " ">Project 2 <a/> </ul>
 </div>
 
