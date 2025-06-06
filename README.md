@@ -5,6 +5,27 @@
 
 Aspiring ML & AI engineer | Passionate About Turning Data Into Insights | Building Machine Learning Models | Python | Machine Learning | SQL | Open to internship & collaborations
 
+<p>
+🎓 Statistics Undergraduate | Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
+
+I am a 3rd-year student in the Department of Statistics at Noakhali Science and Technology University (NSTU) with hands-on experience in machine learning model development, data analysis, and optimization techniques. My technical toolkit includes Python, Excel (including PivotTables for dashboard creation), and core data science libraries such as pandas, scikit-learn, and matplotlib.
+
+I have worked on multiple academic and personal projects involving end-to-end machine learning pipelines—from data preprocessing to model evaluation. I'm currently deepening my expertise in deep learning and computer vision, exploring frameworks like TensorFlow and PyTorch to understand real-world applications in image classification, object detection, and neural network architectures.
+
+📌 Key Skills:
+
+Data Analysis & Visualization (Python, Excel, PivotTables)
+
+Machine Learning & Optimization Techniques
+
+Model Evaluation & Deployment
+
+Deep Learning (in progress)
+
+Computer Vision (in progress)
+
+I’m passionate about solving real-world problems using data-driven approaches and am actively looking for opportunities to collaborate, intern, or contribute to impactful data science projects.
+</p>
 
 Skills: Python / Nupmy / Pandas / Sklearn / Matplotlib / Seaborn / Excel
 <div>
