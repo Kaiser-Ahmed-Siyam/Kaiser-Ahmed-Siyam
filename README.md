@@ -3,7 +3,7 @@
 ### Hi there 👋, I'am Kaiser Ahmed. 
 #### Machine Learning engineer . 
 
-Aspiring ML & AI engineer | Passionate About Turning Data Into Insights | Python | Machine Learning | SQL | Open to internship & collaborations
+Aspiring ML & AI engineer | Passionate About Turning Data Into Insights | Building Machine Learning Models | Python | Machine Learning | SQL | Open to internship & collaborations
 
 
 Skills: Python / Nupmy / Pandas / Sklearn / Matplotlib / Seaborn / Excel
