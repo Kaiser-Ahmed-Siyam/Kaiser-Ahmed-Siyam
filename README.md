@@ -5,6 +5,16 @@
 
 Aspiring ML & AI engineer | Passionate About Turning Data Into Insights | Building Machine Learning Models | Python | Machine Learning | SQL | Open to internship & collaborations
 
+<div>
+  <p> <b>Projects : </b> </p>
+  <ul> <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-dataset/edit">Project 1 <a/> </ul>
+    <P>Breast Cancer wisconsin dataset is a supervised classififation problem. For the reason we use classification algorithms .('RandomForest','DecisonTree',' AdaBoost','GradBoost','XGBoost',
+             'Linear Regression')</P>
+  <ul> <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/> </ul>
+    <p> Prediction analysis on Stroke dataset.</p>
+</div>
+
+
 <p>
 🎓 Statistics Undergraduate | Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
 
@@ -28,14 +38,7 @@ I’m passionate about solving real-world problems using data-driven approaches 
 </p>
 
 Skills: Python / Nupmy / Pandas / Sklearn / Matplotlib / Seaborn / Excel
-<div>
-  <p> <b>Projects : </b> </p>
-  <ul> <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-dataset/edit">Project 1 <a/> </ul>
-    <P>Breast Cancer wisconsin dataset is a supervised classififation problem. For the reason we use classification algorithms .('RandomForest','DecisonTree',' AdaBoost','GradBoost','XGBoost',
-             'Linear Regression')</P>
-  <ul> <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/> </ul>
-    <p> Prediction analysis on Stroke dataset.</p>
-</div>
+
 
 - 🔭 I’m currently working on project link here 
 - 🌱 I’m currently learning Deep Learning and Computer vision 
