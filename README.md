@@ -4,22 +4,11 @@
 #### Machine Learning engineer . 
 Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics and machine learning.
 
-<div>
-  <p> <b>Projects : </b> </p>
-  <ul> <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Project 1 <a/> </ul>
-    <P>Breast Cancer wisconsin dataset is a supervised classififation problem. For the reason we use classification algorithms .('RandomForest','DecisonTree',' AdaBoost','GradBoost','XGBoost',
-             'Linear Regression')</P>
-  <ul> <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/> </ul>
-    <p> Prediction analysis on Stroke dataset.</p>
-</div>
-
 
 <p>
 🎓 Statistics Undergraduate | Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
 
 I am a 3rd-year student in the Department of Statistics at Noakhali Science and Technology University (NSTU) with hands-on experience in machine learning model development, data analysis, and optimization techniques. My technical toolkit includes Python, Excel (including PivotTables for dashboard creation), and core data science libraries such as pandas, scikit-learn, and matplotlib.
-
-I have worked on multiple academic and personal projects involving end-to-end machine learning pipelines—from data preprocessing to model evaluation. I'm currently deepening my expertise in deep learning and computer vision, exploring frameworks like TensorFlow and PyTorch to understand real-world applications in image classification, object detection, and neural network architectures.
 
 📌 Key Skills:
 
@@ -37,7 +26,16 @@ Computer Vision (in progress)
 
 
 
-- 🔭 I’m currently working on project link here 
+- 🔭 I’m currently working on
+-
+-  <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Project 1 <a/>
+<P>Breast Cancer wisconsin dataset is a supervised classififation problem. For the reason we use classification algorithms .('RandomForest','DecisonTree',' AdaBoost','GradBoost','XGBoost',
+             'Linear Regression')</P>
+- <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/> 
+    <p> Prediction analysis on Stroke dataset.</p>
+
+
+    
 - 🌱 I’m currently learning Deep Learning and Computer vision 
 - 👯 I’m looking to collaborate on Ml and AI 
 - 🤔 I’m looking for help with Deep  learning core concepts 
