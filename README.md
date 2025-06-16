@@ -27,15 +27,10 @@ Computer Vision (in progress)
 
 
 - 🔭 I’m currently working on
--
--  <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Project 1 <a/>
-<P>Breast Cancer wisconsin dataset is a supervised classififation problem. For the reason we use classification algorithms .('RandomForest','DecisonTree',' AdaBoost','GradBoost','XGBoost',
-             'Linear Regression')</P>
-- <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/> 
-    <p> Prediction analysis on Stroke dataset.</p>
+- <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Project 1 <a/>
+- <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/>
 
-
-    
+-  
 - 🌱 I’m currently learning Deep Learning and Computer vision 
 - 👯 I’m looking to collaborate on Ml and AI 
 - 🤔 I’m looking for help with Deep  learning core concepts 
@@ -43,7 +38,7 @@ Computer Vision (in progress)
 - 📫 How to reach me: <a href ="https://www.linkedin.com/in/kaiser-ahmed-siyam/">LinkedIn</a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kaiser-ahmed-022b7b240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' color='blue' height='40'>](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kaiser-ahmed-022b7b240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Kaiser-Ahmed-Siyam)](https://github.com/ryo-ma/github-profile-trophy)
 
