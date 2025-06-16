@@ -47,7 +47,7 @@ I’m passionate about solving real-world problems using data-driven approaches 
 - 👯 I’m looking to collaborate on Ml and AI 
 - 🤔 I’m looking for help with Deep  learning core concepts 
 - 💬 Ask me about Data preprocessing  and Modeling 
-- 📫 How to reach me: https://www.linkedin.com/in/kaiser-ahmed-022b7b240/ 
+- 📫 How to reach me: [(https://www.linkedin.com/in/kaiser-ahmed-siyam/)]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kaiser-ahmed-022b7b240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
