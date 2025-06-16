@@ -2,8 +2,7 @@
 
 ### Hi there 👋, I'am Kaiser Ahmed. 
 #### Machine Learning engineer . 
-
-
+Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics and machine learning.
 
 <div>
   <p> <b>Projects : </b> </p>
@@ -16,8 +15,6 @@
 
 
 <p>
-  
-Aspiring ML & AI engineer | Passionate About Turning Data Into Insights | Building Machine Learning Models | Python | Machine Learning | SQL | Open to internship & collaborations
 🎓 Statistics Undergraduate | Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
 
 I am a 3rd-year student in the Department of Statistics at Noakhali Science and Technology University (NSTU) with hands-on experience in machine learning model development, data analysis, and optimization techniques. My technical toolkit includes Python, Excel (including PivotTables for dashboard creation), and core data science libraries such as pandas, scikit-learn, and matplotlib.
@@ -35,8 +32,6 @@ Model Evaluation & Deployment
 Deep Learning (in progress)
 
 Computer Vision (in progress)
-
-I’m passionate about solving real-world problems using data-driven approaches and am actively looking for opportunities to collaborate, intern, or contribute to impactful data science projects.
 </p>
 
 
