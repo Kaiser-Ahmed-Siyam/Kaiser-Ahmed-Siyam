@@ -6,21 +6,8 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 
 
 <p>
-🎓 Statistics Undergraduate | Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
+🎓 Statistics Undergraduate (3rd year)| Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
 
-I am a 3rd-year student in the Department of Statistics at Noakhali Science and Technology University (NSTU) with hands-on experience in machine learning model development, data analysis, and optimization techniques. My technical toolkit includes Python, Excel (including PivotTables for dashboard creation), and core data science libraries such as pandas, scikit-learn, and matplotlib.
-
-📌 Key Skills:
-
-Data Analysis & Visualization (Python, Excel, PivotTables)
-
-Machine Learning & Optimization Techniques
-
-Model Evaluation & Deployment
-
-Deep Learning (in progress)
-
-Computer Vision (in progress)
 </p>
 
 
@@ -38,7 +25,7 @@ Computer Vision (in progress)
 - 📫 How to reach me: <a href ="https://www.linkedin.com/in/kaiser-ahmed-siyam/">LinkedIn</a>
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kaiser-ahmed-siyam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaiser-ahmed-siyam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Kaiser-Ahmed-Siyam)](https://github.com/ryo-ma/github-profile-trophy)
 
